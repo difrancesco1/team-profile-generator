@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+  }
+
+  #navbar {
+    background-color: rgb(37, 186, 255);
+    font-size: 70px;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .card-header {
+    background-color: rgb(65, 127, 252);
+  }
+  
+
+  .container {
+    margin: 100px auto;
+    display: flex;
+  }
+  
