@@ -1,0 +1,16 @@
+{
+    "name": "static-site",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "jest"
+    },
+    "author": "",
+    "license": "GNU",
+    "dependencies": {
+      "inquirer": "^6.3.1",
+      "jest": "^27.4.5"
+    }
+  }
+  
